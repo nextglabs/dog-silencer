@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/doc-silencer/static/css/main.49f83174.chunk.css",
+    "main.js": "/doc-silencer/static/js/main.abe323e0.chunk.js",
+    "main.js.map": "/doc-silencer/static/js/main.abe323e0.chunk.js.map",
+    "runtime-main.js": "/doc-silencer/static/js/runtime-main.4f2c6338.js",
+    "runtime-main.js.map": "/doc-silencer/static/js/runtime-main.4f2c6338.js.map",
+    "static/js/2.46e7a3bd.chunk.js": "/doc-silencer/static/js/2.46e7a3bd.chunk.js",
+    "static/js/2.46e7a3bd.chunk.js.map": "/doc-silencer/static/js/2.46e7a3bd.chunk.js.map",
+    "index.html": "/doc-silencer/index.html",
+    "precache-manifest.64ba60381def03c67f9a5a9180ec4a1c.js": "/doc-silencer/precache-manifest.64ba60381def03c67f9a5a9180ec4a1c.js",
+    "service-worker.js": "/doc-silencer/service-worker.js",
+    "static/css/main.49f83174.chunk.css.map": "/doc-silencer/static/css/main.49f83174.chunk.css.map",
+    "static/js/2.46e7a3bd.chunk.js.LICENSE": "/doc-silencer/static/js/2.46e7a3bd.chunk.js.LICENSE",
+    "static/media/audio.m4a": "/doc-silencer/static/media/audio.f79b3b40.m4a"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f2c6338.js",
+    "static/js/2.46e7a3bd.chunk.js",
+    "static/css/main.49f83174.chunk.css",
+    "static/js/main.abe323e0.chunk.js"
+  ]
+}
